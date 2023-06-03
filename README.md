@@ -26,6 +26,30 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+<p>
+  Language programing : nodeJs</br>
+Framework : nestJs </br>
+Project name : sampleEndPoint</br>
+
+Information : </br>
+	1- nLayer architecture pattern</br>
+	2- Integration generic api result for all api`s</br>
+	3- Costomize routing in controller</br>
+	4- Id generator for any entity of domain that start with the desired number  </br>
+	5- Use mapper class for easy mapping</br>
+	6- Validate email of user</br>
+	7- Use Dto for transfer object in network</br>
+	8- Use model for internal transfer request between layer</br>
+	9- Upload file as avatar for user</br>
+	10- Retrieve user avatar as image url </br> 
+	11- Send email after signup user</br>
+	12- Retrieve user info</br>
+
+
+  </p>
+
+
+
 ## Installation
 
 ```bash
