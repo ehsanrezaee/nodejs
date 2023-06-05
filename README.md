@@ -30,6 +30,7 @@
   Language programing : nodeJs</br>
 Framework : nestJs </br>
 Project name : sampleEndPoint</br>
+Access to api : localhost:3002</br>
 
 Information : </br>
 	1- nLayer architecture pattern</br>
